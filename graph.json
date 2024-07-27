@@ -1,0 +1,141 @@
+{
+  "name": "(ALL, ALL)",
+  "size": 3938,
+  "children": [{
+    "name": "partition on row",
+    "size": 3938,
+    "children": [{
+      "name": "(tab1row1, ALL)",
+      "size": 3938,
+      "children": [{
+        "name": "(tab1row1, tab1col1)",
+        "size": 3938
+      }, {
+        "name": "(tab1row1, tab1col2)",
+        "size": 3938
+      }, {
+        "name": "(tab1row1, tab1col3)",
+        "size": 3938
+      }, {
+        "name": "(tab1row1, tab1col4)",
+        "size": 3938
+      }]
+    }, {
+      "name": "(tab1row2, ALL)",
+      "size": 3938,
+      "children": [{
+        "name": "(tab1row2, tab1col1)",
+        "size": 3938
+      }, {
+        "name": "(tab1row2, tab1col2)",
+        "size": 3938
+      }, {
+        "name": "(tab1row2, tab1col3)",
+        "size": 3938
+      }, {
+        "name": "(tab1row2, tab1col4)",
+        "size": 3938
+      }]
+    }, {
+      "name": "(tab1row3, ALL)",
+      "size": 3938,
+      "children": [{
+        "name": "(tab1row3, tab1col1)",
+        "size": 3938
+      }, {
+        "name": "(tab1row3, tab1col2)",
+        "size": 3938
+      }, {
+        "name": "(tab1row3, tab1col3)",
+        "size": 3938
+      }, {
+        "name": "(tab1row3, tab1col4)",
+        "size": 3938
+      }]
+    }, {
+      "name": "(tab1row4, ALL)",
+      "size": 3938,
+      "children": [{
+        "name": "(tab1row4, tab1col1)",
+        "size": 3938
+      }, {
+        "name": "(tab1row4, tab1col2)",
+        "size": 3938
+      }, {
+        "name": "(tab1row4, tab1col3)",
+        "size": 3938
+      }, {
+        "name": "(tab1row4, tab1col4)",
+        "size": 3938
+      }]
+    }]
+  }, {
+    "name": "partition on col.",
+    "size": 3938,
+    "children": [{
+      "name": "(ALL, tab1col1)",
+      "size": 3938,
+      "children": [{
+        "name": "(tab1col1, tab1row1)",
+        "size": 3938
+      }, {
+        "name": "(tab1col1, tab1row2)",
+        "size": 3938
+      }, {
+        "name": "(tab1col1, tab1row3)",
+        "size": 3938
+      }, {
+        "name": "(tab1col1, tab1row4)",
+        "size": 3938
+      }]
+    }, {
+      "name": "(ALL, tab1col2)",
+      "size": 3938,
+      "children": [{
+        "name": "(tab1col2, tab1row1)",
+        "size": 3938
+      }, {
+        "name": "(tab1col2, tab1row2)",
+        "size": 3938
+      }, {
+        "name": "(tab1col2, tab1row3)",
+        "size": 3938
+      }, {
+        "name": "(tab1col2, tab1row4)",
+        "size": 3938
+      }]
+    }, {
+      "name": "(ALL, tab1col3)",
+      "size": 3938,
+      "children": [{
+        "name": "(tab1col3, tab1row1)",
+        "size": 3938
+      }, {
+        "name": "(tab1col3, tab1row2)",
+        "size": 3938
+      }, {
+        "name": "(tab1col3, tab1row3)",
+        "size": 3938
+      }, {
+        "name": "(tab1col3, tab1row4)",
+        "size": 3938
+      }]
+    }, {
+      "name": "(ALL, tab1col4)",
+      "size": 3938,
+      "children": [{
+        "name": "(tab1col4, tab1row1)",
+        "size": 3938
+      }, {
+        "name": "(tab1col4, tab1row2)",
+        "size": 3938
+      }, {
+        "name": "(tab1col4, tab1row3)",
+        "size": 3938
+      }, {
+        "name": "(tab1col4, tab1row4)",
+        "size": 3938
+      }]
+    }]
+  }]
+}
