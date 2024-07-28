@@ -1,0 +1,476 @@
+{
+    "name": "Analysis",
+    "subname": "Whole Set",
+    "fill":"grey",
+    "children": [
+      {
+        "name": "Freeware", "subname": "Cluster 0","fill":"green",
+        "children": [
+                  { "name": "Best API Call_1", "subname": "240","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "240","fill":"black"},
+                            { "name": "occurence", "subname": "130","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "274","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "274","fill":"black"},
+                            { "name": "occurence", "subname": "28","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "215","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "215","fill":"black"},
+                            { "name": "occurence", "subname": "27","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "35","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "35","fill":"black"},
+                            { "name": "occurence", "subname": "20","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "141","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "141","fill":"black"},
+                            { "name": "occurence", "subname": "18","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "44","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "364","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "8","fill":"black"}
+                          ]
+                  },
+
+                    ]
+      },
+      {
+        "name" : "Malware","subname" : "Cluster 1 to 10","fill":"orange",
+        "children": [
+              {"name": "Cluster 1", "fill":"#ffaabb",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "35","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "35","fill":"black"},
+                            { "name": "occurence", "subname": "1249","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "208","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "208","fill":"black"},
+                            { "name": "occurence", "subname": "94","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "243","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "243","fill":"black"},
+                            { "name": "occurence", "subname": "65","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "159","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "159","fill":"black"},
+                            { "name": "occurence", "subname": "22","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "172","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "172","fill":"black"},
+                            { "name": "occurence", "subname": "22","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "14","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "1488","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "106","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+              {"name": "Cluster 2", "fill":"#d281d2",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "240","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "240","fill":"black"},
+                            { "name": "occurence", "subname": "2179","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "141","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "141","fill":"black"},
+                            { "name": "occurence", "subname": "142","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "65","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "65","fill":"black"},
+                            { "name": "occurence", "subname": "112","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "260","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "260","fill":"black"},
+                            { "name": "occurence", "subname": "106","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "82","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "82","fill":"black"},
+                            { "name": "occurence", "subname": "53","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "8","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "2666","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "333","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+              {"name": "Cluster 3", "fill":"#ffaabb",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "81","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "81","fill":"black"},
+                            { "name": "occurence", "subname": "372","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "-1","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "-1","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "-1","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "-1","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "1","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "372","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "372","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+              {"name": "Cluster 4", "fill":"#d281d2",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "172","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "172","fill":"black"},
+                            { "name": "occurence", "subname": "841","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "81","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "81","fill":"black"},
+                            { "name": "occurence", "subname": "282","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "-1","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "-1","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "-1","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "2","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "1123","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "562","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+              {"name": "Cluster 5", "fill":"#ffaabb",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "141","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "141","fill":"black"},
+                            { "name": "occurence", "subname": "700","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "117","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "117","fill":"black"},
+                            { "name": "occurence", "subname": "155","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "274","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "274","fill":"black"},
+                            { "name": "occurence", "subname": "5","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "-1","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "-1","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "3","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "860","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "287","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+              {"name": "Cluster 6", "fill":"#d281d2",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "240","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "240","fill":"black"},
+                            { "name": "occurence", "subname": "695","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "-1","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "-1","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "-1","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "-1","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "-1","fill":"black"},
+                            { "name": "occurence", "subname": "-1","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "1","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "695","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "695","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+              {"name": "Cluster 7", "fill":"#ffaabb",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "158","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "158","fill":"black"},
+                            { "name": "occurence", "subname": "574","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "172","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "172","fill":"black"},
+                            { "name": "occurence", "subname": "247","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "25","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "25","fill":"black"},
+                            { "name": "occurence", "subname": "95","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "35","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "35","fill":"black"},
+                            { "name": "occurence", "subname": "53","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "215","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "215","fill":"black"},
+                            { "name": "occurence", "subname": "28","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "42","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "1165","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "28","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+              {"name": "Cluster 8", "fill":"#d281d2",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "172","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "172","fill":"black"},
+                            { "name": "occurence", "subname": "287","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "117","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "117","fill":"black"},
+                            { "name": "occurence", "subname": "219","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "141","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "141","fill":"black"},
+                            { "name": "occurence", "subname": "141","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "240","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "240","fill":"black"},
+                            { "name": "occurence", "subname": "124","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "158","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "158","fill":"black"},
+                            { "name": "occurence", "subname": "124","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "61","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "1622","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "27","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+              {"name": "Cluster 9", "fill":"#ffaabb",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "198","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "198","fill":"black"},
+                            { "name": "occurence", "subname": "125","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "225","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "225","fill":"black"},
+                            { "name": "occurence", "subname": "82","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "172","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "172","fill":"black"},
+                            { "name": "occurence", "subname": "62","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "82","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "82","fill":"black"},
+                            { "name": "occurence", "subname": "42","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "65","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "65","fill":"black"},
+                            { "name": "occurence", "subname": "29","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "9","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "385","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "43","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+              {"name": "Cluster 10", "fill":"#d281d2",
+              "children": [
+                  { "name": "Best API Call_1", "subname": "65","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "65","fill":"black"},
+                            { "name": "occurence", "subname": "641","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_2", "subname": "215","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "215","fill":"black"},
+                            { "name": "occurence", "subname": "584","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_3", "subname": "240","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "240","fill":"black"},
+                            { "name": "occurence", "subname": "567","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_4", "subname": "172","fill":"#d281d2",
+                          "children": [
+                            { "name": "Value", "subname": "172","fill":"black"},
+                            { "name": "occurence", "subname": "383","fill":"black"}
+                          ]
+                          },
+                          { "name": "Best API Call_5", "subname": "35","fill":"#ffaabb",
+                          "children": [
+                            { "name": "Value", "subname": "35","fill":"black"},
+                            { "name": "occurence", "subname": "253","fill":"black"}
+                          ]
+                          },
+                  {"name": "More Features", "subname": "3","fill":"blue",
+                  "children": [
+                            {"name": "Unique APIs", "subname": "80","fill":"#ffaabb"},
+                            {"name": "Cluster Size", "subname": "4260","fill":"#d281d2"},
+                            {"name": "Average Seq.", "subname": "53","fill":"black"}
+                          ]
+                  },
+
+                    ]
+              },
+
+                          ]
+        }
+                ]
+    }
